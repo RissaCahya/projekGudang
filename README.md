@@ -1,0 +1,2 @@
+# projekGudang
+Latihan
